@@ -3,4 +3,4 @@ WordPress PHP version graceful fallback
 
 
 # License
-Code by ExtendThemes and released under the MIT License.
+Released under the MIT License.
